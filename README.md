@@ -1,4 +1,4 @@
-#2017년 서울시 앱공모전 출품작(School Notification Service)
+# 2017년 서울시 앱공모전 출품작(School Notification Service)
 
 ## 앱과 웹사이트 설명서입니다. 심사할 때 참고해주세요. 
 
