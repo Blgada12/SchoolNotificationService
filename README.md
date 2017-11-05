@@ -3,7 +3,7 @@
 ## 앱과 웹사이트 설명서입니다. 심사할 때 참고해주세요. 
 
 ### 공지 사용법
- 먼저 https://jaeheon.com 에 접속합니다.
+ 먼저 http://jaeheon.com 에 접속합니다.
 ![로그인](./image/Login.png)
 
  계정을 생성합니다.
